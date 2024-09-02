@@ -4,6 +4,3 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/douglaswe/teste-3-submodulo.git
-[submodule "backend"]
-	path = backend
-	url = https://github.com/douglaswe/projeto-submodulo.git
