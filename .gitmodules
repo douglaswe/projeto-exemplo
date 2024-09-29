@@ -1,9 +1,12 @@
 [submodule "projeto-submodulo"]
 	path = projeto-submodulo
 	url = https://github.com/douglaswe/projeto-submodulo.git
+	branch = main
 [submodule "backend"]
 	path = backend
 	url = https://github.com/douglaswe/projeto-submodulo.git
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/douglaswe/teste-3-submodulo.git
+	branch = main
